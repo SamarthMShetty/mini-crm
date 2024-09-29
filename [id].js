@@ -1,4 +1,5 @@
 /* mini-crm/pages/api/companies/[id].js */
+
 import connectDB from '../../../lib/mongodb';
 import Company from '../../../models/Company';
 
