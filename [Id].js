@@ -1,5 +1,6 @@
 /* mini-crm/pages/companies/[id].js */
 /* make sure to give the name as [id].js for the file name in the given path */
+
 import { useRouter } from 'next/router';
 import { useState, useEffect } from 'react';
 
